@@ -1,0 +1,6 @@
+- 标签 `QLabel`
+- 按钮 `QPushButton`
+- 窗口 `QWidget`
+- 滑块 `QSlider`
+- 微调框 `QSpinBox`
+- 布局 `QHBoxLayout`(horizon) `QVBoxLayout`(vertical) `QGridLayout`(grid)
