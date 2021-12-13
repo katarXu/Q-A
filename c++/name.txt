@@ -1,7 +1,10 @@
 C Primer Plus 5th.pdf
 C++ GUI Qt 4 2th.pdf
+C++ Primer 5th En.pdf
+C++程序设计语言.pdf
 C和指针.pdf
 C陷阱与缺陷.pdf
 Effective C++.pdf
+Modern+Design.pdf
 STL源码剖析.pdf
 深入理解C++11.pdf
